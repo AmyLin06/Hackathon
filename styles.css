@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    font-family: 'Charm', cursive;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBN8XqlA2sB_BZGBBynL09_mYFRAXnWdodVXHNKTHIXG7F1FKm");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    font-size: 40px;
+}
+.topics{
+    display: flex;
+    flex-wrap: wrap;
+    background-image: url("https://cdn3.vectorstock.com/i/1000x1000/25/67/seamless-math-background-vector-7762567.jpg");
+    padding: 150px;
+    justify-content: center;
+    border-radius: 20px;
+    font-size: 25px;
+}
+h2{
+    width: 50%;
+}
